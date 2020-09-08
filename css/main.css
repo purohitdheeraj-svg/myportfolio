@@ -1,0 +1,31 @@
+.site-header{
+    background-color: aquamarine;
+    font-family: monospace;
+    color: tan;
+    height: 105vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    box-shadow: #224665 1px 0px 17px 0px;
+    
+}
+
+.site-header-content{
+    margin: 10px;
+}
+
+body{
+    margin: 0;
+}
+
+.insta-link{
+    color:tan;
+}
